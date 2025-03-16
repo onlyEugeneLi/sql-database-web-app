@@ -5,8 +5,11 @@ I want to create an online relational data storage solution and want it to be ac
 After that, create a simple Web App in Python that will return the price of any product based on the product ID. Ensure that it can connect to the Azure SQL Database and that it can run queries on it. Deploy the App to the cloud using Azure Web Apps.
 
 Here’s a quick overview of what I’ve done:
+
 ✅ Built a web API to handle user requests.
+
 ✅ Set up an Azure database to store user inputs and other relevant data.
+
 ✅ Created a web app interface for users to interact with the system.
 
 ## Try it out!
