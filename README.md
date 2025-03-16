@@ -14,7 +14,7 @@ Here’s a quick overview of what I’ve done:
 
 ## Try it out!
 
-[Click here to check out the data look-up page!](metrocity-heatlh-v1-f3a9evfqhucwctdf.canadacentral-01.azurewebsites.net)
+### [Click here to check out the data look-up page!](metrocity-heatlh-v1-f3a9evfqhucwctdf.canadacentral-01.azurewebsites.net)
 
 How it works:
 1. Go to the link above.
