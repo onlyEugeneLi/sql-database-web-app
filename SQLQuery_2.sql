@@ -38,8 +38,8 @@
 -- (12, '水杯', 5.99),
 -- (13, '鼠标', 19.99);
 
-DELETE FROM app.product
-WHERE ProductName LIKE '?%';
-GO
+-- DELETE FROM app.product
+-- WHERE ProductName LIKE '?%';
+-- GO
 
 SELECT * FROM app.product;
